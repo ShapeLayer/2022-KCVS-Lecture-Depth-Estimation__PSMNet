@@ -1,0 +1,3 @@
+[submodule "TA_session"]
+	path = TA_session
+	url = https://github.com/intelpro/TA_session
