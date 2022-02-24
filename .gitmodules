@@ -1,3 +1,6 @@
 [submodule "TA_session"]
 	path = TA_session
 	url = https://github.com/intelpro/TA_session
+[submodule "KCCV2022-tutorial"]
+	path = KCCV2022-tutorial
+	url = https://github.com/mlvlab/KCCV2022-tutorial

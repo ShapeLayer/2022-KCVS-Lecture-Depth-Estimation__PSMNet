@@ -6,5 +6,9 @@
 * [Related Paper](https://arxiv.org/abs/1803.08669)
 
 ## Optical Flow Estimation
-* [Directory: TA_session/OpticalFlow](./TA_session/Opticalflow/)
+* [Directory: TA_session/OpticalFlow](./TA_session)
 * [Origin Repository](https://github.com/intelpro/TA_session)
+
+## Object Detection
+* [Directory: TA_session/OpticalFlow](./KCCV2022-tutorial)
+* [Origin Repository](https://github.com/mlvlab/KCCV2022-tutorial)
